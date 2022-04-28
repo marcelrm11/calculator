@@ -2,7 +2,6 @@
 
 ## Project name
 ```
-Responsive Payment Platform:
 This is a simple calculator built with Javascript, HTML and CSS.
 ```
 
